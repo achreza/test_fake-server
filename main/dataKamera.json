@@ -1,0 +1,182 @@
+{
+  "Kamera": [
+    {
+      "Brand": "Canon",
+      "Model": "Canon EOS 1DX Mark III",
+      "Desc": "Canon EOS 1DX Mark III DSLR Camera (Body Only)",
+      "Megapixel": "20.1 MP",
+      "Sensor": "Full Frame",
+      "ISO": "100-51200",
+      "Video": "4K",
+      "Preis": "Rp 127000000",
+      "gambar": "canon 1DX Mk 3.png"
+    },
+
+    {
+      "Brand": "Canon",
+      "Model": "EOS 5D Mark IV",
+      "Desc": "Canon EOS 5D Mark IV DSLR Camera (Body Only)",
+      "Megapixel": "30.4 MP",
+      "Sensor": "Full Frame",
+      "ISO": "100-32000",
+      "Video": "4K",
+      "Preis": "Rp 56000000",
+      "gambar": "canon 5D Mk 4.png"
+    },
+
+    {
+      "Brand": "Canon",
+      "Model": "Canon EOS 6D Mark II",
+      "Desc": "Canon EOS 6D Mark II DSLR Camera (Body Only)",
+      "Megapixel": "26.2 MP",
+      "Sensor": "Full Frame",
+      "ISO": "100-40000",
+      "Video": "4K",
+      "Preis": "Rp 48000000",
+      "gambar": "canon 6D Mk 2.png"
+    },
+
+    {
+      "Brand": "Canon",
+      "Model": "Canon EOS 200D II",
+      "Desc": " Canon EOS 200D II DSLR Camera (EF-S 18-55mm f/4-5.6 IS STM)",
+      "Megapixel": "24.1 MP",
+      "Sensor": "APS-C",
+      "ISO": "100-25600",
+      "Video": "4K",
+      "Preis": "Rp 15.000.000",
+      "gambar": "canon 200D.png"
+    },
+
+    {
+      "Brand": "Canon",
+      "Model": "Canon EOS 3000D",
+      "Desc": " Canon EOS 3000D DSLR Camera (EF-S 18-55mm f/3.5-5.6 III)",
+      "Megapixel": "18 MP",
+      "Sensor": "APS-C",
+      "ISO": "100-6400",
+      "Video": "4K",
+      "Preis": "Rp 10.000.000",
+      "gambar": "canon 3000D.png"
+    },
+
+    {
+      "Brand": "Canon",
+      "Model": "Canon EOS 1500D",
+      "Desc": " Canon EOS 1500D DSLR Camera (EF-S 18-55mm f/3.5-5.6 II)",
+      "Megapixel": "24.1 MP",
+      "Sensor": "APS-C",
+      "ISO": "100-6400",
+      "Video": "1080p",
+      "Preis": "Rp 9600000",
+      "gambar": "canon 1500D.png"
+    },
+
+    {
+      "Brand": "Canon",
+      "Model": "Canon EOS R10",
+      "Desc": " Canon EOS R10 Mirrorless Digital Camera (Body Only)",
+      "Megapixel": "24,2 MP",
+      "Sensor": "APS-C",
+      "ISO": "100-32000",
+      "Video": "4K",
+      "Preis": "Rp 20.000.000",
+      "gambar": "canon R10.png"
+    },
+
+    {
+      "Brand": "Sony",
+      "Model": "A7R III",
+      "Desc": "Sony Alpha A7R III Mirrorless Digital Camera (Body Only)",
+      "Megapixel": "42.4 MP",
+      "Sensor": "Full Frame",
+      "ISO": "100-32000",
+      "Video": "4K",
+      "Preis": "Rp 37500000",
+      "gambar": "sony a7r III.png"
+    },
+
+    {
+      "Brand": "Sony",
+      "Model": "alpha 6100",
+      "Desc": "Sony Alpha 6100 Mirrorless Digital Camera (Body Only)",
+      "Megapixel": "24.2 MP",
+      "Sensor": "APS-C",
+      "ISO": "100-32000",
+      "Video": "4K",
+      "Preis": "Rp 10.000.000",
+      "gambar": "sony a6100.png"
+    },
+
+    {
+      "Brand": "Sony",
+      "Model": "alpha 6400",
+      "Desc": "Sony Alpha 6400 Mirrorless Digital Camera (Kit w/ 16-50mm Lens)",
+      "Megapixel": "24.2 MP",
+      "Sensor": "APS-C",
+      "ISO": "100-32000",
+      "Video": "4K",
+      "Preis": "Rp 13.000.000",
+      "gambar": "sony a6400.png"
+    },
+
+    {
+      "Brand": "Nikon",
+      "Model": "D850",
+      "Desc": "Nikon D850 DSLR Camera (Body Only)",
+      "Megapixel": "45.7 MP",
+      "Sensor": "Full Frame",
+      "ISO": "64-25600",
+      "Video": "4K",
+      "Preis": "Rp 35.000.000",
+      "gambar": "Nikon d850.png"
+    },
+
+    {
+      "Brand": "Nikon",
+      "Model": "D3200",
+      "Desc": "Nikon D3200 DSLR Camera (AF-S DX 18-55mm VR II)",
+      "Megapixel": "24.2 MP",
+      "Sensor": "CMOS",
+      "ISO": "100-6400",
+      "Video": "1080p",
+      "Preis": "Rp 5.000.000",
+      "gambar": "nikon d3200.png"
+    },
+
+    {
+      "Brand": "Nikon",
+      "Model": "D5200",
+      "Desc": "Nikon D5200 DSLR Camera (AF-S DX 18-55mm VR II)",
+      "Megapixel": "24 MP",
+      "Sensor": "CMOS",
+      "ISO": "100-6400",
+      "Video": "1080p",
+      "Preis": "Rp 7.000.000",
+      "gambar": "nikon d5200.png"
+    },
+
+    {
+      "Brand": "Fujifilm",
+      "Model": "X-T4",
+      "Desc": "Fujifilm X-T4 Mirrorless Digital Camera (Body Only)",
+      "Megapixel": "26.1 MP",
+      "Sensor": "APS-C",
+      "ISO": "200-12800",
+      "Video": "4K",
+      "Preis": "Rp 15.000.000",
+      "gambar": "FujiFilm XT-4.png"
+    },
+    {
+      "Brand": "Panasonic",
+      "Model": "Lumix S5",
+      "Desc": "Panasonic Lumix S5 Mirrorless Digital Camera (Body Only)",
+      "Megapixel": "24.2 MP",
+      "Sensor": "Full Frame",
+      "ISO": "100-25600",
+      "Video": "4K",
+      "Preis": "Rp 15.000.000",
+      "gambar": "Panasonic.png"
+    }
+  ]
+}
